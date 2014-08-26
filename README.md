@@ -9,8 +9,6 @@ NOTE:
 This is a preliminary version for support the squirrel programming language on Sublime Text 2.
 (This version is a bit based on an old Boundle for TextMate.)
 
-sublime_squirrel currently supports only on OSX and Linux. (I'm sorry but I do not have a Windows machine)
-
 There are 2 ways to install it.
 
 * Git Clone
